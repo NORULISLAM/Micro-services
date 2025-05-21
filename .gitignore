@@ -1,0 +1,15 @@
+# Ignore all unwanted folders and files
+StandardDrawingTool/
+*.exe
+*.msi
+*.dll
+*.user
+*.vs
+*.obj
+*.bin
+*.cache
+*.log
+*.suo
+*.tmp
+*.pdb
+*.vscode

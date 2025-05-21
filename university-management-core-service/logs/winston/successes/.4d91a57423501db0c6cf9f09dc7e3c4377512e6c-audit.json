@@ -1,0 +1,95 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\.4d91a57423501db0c6cf9f09dc7e3c4377512e6c-audit.json",
+    "files": [
+        {
+            "date": 1715748730818,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-15-05-13-success.log",
+            "hash": "42651e09cc3f3787ce0b6d7bc1ee1f318424332557242b45744e944b2d3fc83c"
+        },
+        {
+            "date": 1715753280231,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-15-05-15-success.log",
+            "hash": "b19a9f215e2ecc8b4a2c2a907f02be5fe7874fd65f1776c6594c49ec95cef51c"
+        },
+        {
+            "date": 1715760273041,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-15-05-17-success.log",
+            "hash": "97cae58108c9330d6ac5cffd5be7eb3a2037c7efc6e77411f1284af969833d2a"
+        },
+        {
+            "date": 1715823982139,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-16-05-10-success.log",
+            "hash": "44c635378b9ea8d128aff93e8b072841bd772d4e38362707dc3051bff1793dc5"
+        },
+        {
+            "date": 1715824831905,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-16-05-11-success.log",
+            "hash": "e38a747a0fc2b4c53cd14b883f9fd7a71dcd6d00a9dfeb9e7ca9209f11b4a6f9"
+        },
+        {
+            "date": 1715831443734,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-16-05-12-success.log",
+            "hash": "12e6fa1fc8f9c9f3427450637c31a9562c84f1f2553635ab79f761e1e70fe442"
+        },
+        {
+            "date": 1715832451520,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-16-05-13-success.log",
+            "hash": "b6cdc175157f21bdc5d2d1ee491681c4c54657bf386330b8c374ca19252debda"
+        },
+        {
+            "date": 1715835718515,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-16-05-14-success.log",
+            "hash": "8258ff9a62906bf0b70f450cf7d0ac40431fc1cdd4133986426db47aebd2fd82"
+        },
+        {
+            "date": 1715841261073,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-16-05-15-success.log",
+            "hash": "404f5c537ba9a1af30111c86db59d6627d6dcdacf667903b1a7bdb5cb56e56c6"
+        },
+        {
+            "date": 1715848313581,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-16-05-17-success.log",
+            "hash": "862f464e2a6c7be288ffdaf8efbcf64ad9c27679c706371bf70b54e2c8163c16"
+        },
+        {
+            "date": 1715903873474,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-17-05-08-success.log",
+            "hash": "a69bb824ee80fbfa5849d42e653f5c0a0a15dc3fd3056c391901ee3bb1ace2e1"
+        },
+        {
+            "date": 1715905084495,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-17-05-09-success.log",
+            "hash": "c341a2fdc8159d77e27afa7f8774709e093399cfe0bbb05fa6c4f97fc4b8df84"
+        },
+        {
+            "date": 1715911271197,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-17-05-11-success.log",
+            "hash": "278337456fdfc5ea3c9cdaf45ba5a8edcee98811a60413650112868cfad71489"
+        },
+        {
+            "date": 1715918546031,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-17-05-13-success.log",
+            "hash": "39f86e2abbe1d19881d901984aa2cc3f3a37ad1f30548e840c7978a9b555d63c"
+        },
+        {
+            "date": 1715930346271,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-17-05-16-success.log",
+            "hash": "70cc45e1d121094760d66a6925158e81488b1d65e815ab1be47c356e88b33058"
+        },
+        {
+            "date": 1715933364052,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-17-05-17-success.log",
+            "hash": "37577121d78434c35ccb37a0f1f746d2cd42567c52d70fdac24f8be48f1c00d3"
+        },
+        {
+            "date": 1716258823996,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-core-service\\logs\\winston\\successes\\phu-2024-21-05-11-success.log",
+            "hash": "24ba54bec2a90689e7d5fae1c15498a3c75f17a6ee2288e2a9a95f3b2120758c"
+        }
+    ],
+    "hashType": "sha256"
+}

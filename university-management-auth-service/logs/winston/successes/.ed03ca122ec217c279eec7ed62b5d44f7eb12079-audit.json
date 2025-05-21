@@ -1,0 +1,70 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\Micro-services\\university-management-auth-service\\logs\\winston\\successes\\.ed03ca122ec217c279eec7ed62b5d44f7eb12079-audit.json",
+    "files": [
+        {
+            "date": 1728613508732,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\Micro-services\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-11-10-11-success.log",
+            "hash": "f2f2b2230f80f728362d9656f58fd180adc06332fafd0a7c2b6d94cbb4ad7d98"
+        },
+        {
+            "date": 1728620694196,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\Micro-services\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-11-10-13-success.log",
+            "hash": "3ac95a8f9f389cef306b80b625b47b3d0ce2d11d473778910208f18ce7301c71"
+        },
+        {
+            "date": 1728627661430,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\Micro-services\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-11-10-15-success.log",
+            "hash": "d86eabdfb1faba226db2844e5a0580c61ac7d7a10a51eeec14ec81e08b48afda"
+        },
+        {
+            "date": 1728630968376,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\Micro-services\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-11-10-16-success.log",
+            "hash": "f4ac2a38cb3a9ec2e1b38f4338b2ab45f3296f501f3f6eb45256e03e3b375607"
+        },
+        {
+            "date": 1728970530539,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\Micro-services\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-15-10-14-success.log",
+            "hash": "75cb15f7e4d7d95dcabc2c91e09f3b80e2f57a2b8d459d243b40296721b549c9"
+        },
+        {
+            "date": 1728975772629,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\Micro-services\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-15-10-16-success.log",
+            "hash": "070aa56e9e44f09080c204b1435c95ff91e0372f611c024f5d59e6ee5aecedcb"
+        },
+        {
+            "date": 1728982625076,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\Micro-services\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-15-10-17-success.log",
+            "hash": "937e543645d1c960b2429b2231789d7c8758011f9df23232fc12a62394be2e9a"
+        },
+        {
+            "date": 1729046867309,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\Micro-services\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-16-10-11-success.log",
+            "hash": "cfcaaf27901c3bddd712679a500052ea003dcd06863c6443dd27b702f491eb78"
+        },
+        {
+            "date": 1729057851763,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\Micro-services\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-16-10-14-success.log",
+            "hash": "fe6dadb68cec4f1a7b8818830e3f6f74d827d55a477f5592ea16ebbf83bf06a8"
+        },
+        {
+            "date": 1729061091069,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\Micro-services\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-16-10-15-success.log",
+            "hash": "27590fa1e1911dabf8a2ea9e35aaf97acecd035f43a9dda46ce3f26a6cc98bc6"
+        },
+        {
+            "date": 1729149027596,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\Micro-services\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-17-10-16-success.log",
+            "hash": "8536fe9f1fe0a4bf8f313998132487629548193a0bd8f0253275d7c2659bea5b"
+        },
+        {
+            "date": 1729239169228,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\Micro-services\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-18-10-17-success.log",
+            "hash": "e717ec4df35f4f2c93dcd2ec944f4ebb40f2786663d76d6726b13c934a5c4d36"
+        }
+    ],
+    "hashType": "sha256"
+}

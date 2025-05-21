@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-auth-service\\logs\\winston\\successes\\.fdaeecc1993b11a536815ee57d088063bda41327-audit.json",
+    "files": [
+        {
+            "date": 1715222791389,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-09-05-11-success.log",
+            "hash": "44793aafe1eb429afbf8868e64cd61d1a78e9c67e71546a675c6cb7004b1f9b4"
+        },
+        {
+            "date": 1715227930580,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-09-05-13-success.log",
+            "hash": "911c0aee7125fc1efcacaeb8112f4348841013a0f8039f1f3b17bce4f449ec57"
+        },
+        {
+            "date": 1715231086826,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-09-05-14-success.log",
+            "hash": "027cba6253fe9bdacfa2d355c7006fffddcb1661dc92ce792e0e67703d19ae86"
+        },
+        {
+            "date": 1715235474961,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-09-05-15-success.log",
+            "hash": "605701229a418944bd3bff18c9474d69813d88b7f764b53f74cae2a1ff264d28"
+        },
+        {
+            "date": 1716258724735,
+            "name": "C:\\Users\\n-islam\\Desktop\\project\\Level2\\university-management-auth-service\\logs\\winston\\successes\\phu-2024-21-05-11-success.log",
+            "hash": "13cf74040aff2628a4e85aea135934645c863b5c9c491813d19ed4966bdae370"
+        }
+    ],
+    "hashType": "sha256"
+}
